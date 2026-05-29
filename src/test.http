@@ -1,0 +1,7 @@
+POST http://localhost:4000/api/analyze
+Content-Type: application/json
+
+{
+  "resumeText": "I know Java, Node.js, React Native, AWS",
+  "jobDescription": "Looking for someone with Java, AWS, Docker"
+}
